@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a969a68e.css",
+    "main.js": "/static/js/main.a768b65e.js",
+    "static/js/787.3a523655.chunk.js": "/static/js/787.3a523655.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.282ab170a2e58ea962dc.jpg",
+    "static/media/friends.gif": "/static/media/friends.311b4a6b60224acd41c3.gif",
+    "static/media/2447-scaled-removebg-preview.png": "/static/media/2447-scaled-removebg-preview.0b7f907d6b42e3110d1b.png",
+    "static/media/FEaFK4OWUAAlgiV-removebg-preview.png": "/static/media/FEaFK4OWUAAlgiV-removebg-preview.97488b5f90789bd023ed.png",
+    "static/media/png-clipart-coins-and-globe-illustration-investment-fund-finance-security-money-business-earth-gold-globe-business-vector-removebg-preview.png": "/static/media/png-clipart-coins-and-globe-illustration-investment-fund-finance-security-money-business-earth-gold-globe-business-vector-removebg-preview.3c26b4edbc6c966361f2.png",
+    "static/media/male2 profile.jpg": "/static/media/male2 profile.68fea097bbd4ac3c9e60.jpg",
+    "static/media/-removebg-preview.png": "/static/media/155DA22A0398017E-removebg-preview.4b365d3fb8194681ca5c.png",
+    "static/media/relax-removebg-preview.png": "/static/media/relax-removebg-preview.f29c3b61e4ed18bf129a.png",
+    "static/media/female profile.jpg": "/static/media/female profile.9a605d6f81521ccf6448.jpg",
+    "static/media/femail2 profile.jpg": "/static/media/femail2 profile.4e0ac6bd997cc7c1eb7a.jpg",
+    "static/media/man-woman-holding-question-mark_7547-724.webp": "/static/media/man-woman-holding-question-mark_7547-724.9f753590f8b7e3dd54ef.webp",
+    "static/media/male profile.webp": "/static/media/male profile.24cbb915ad8e134bc7aa.webp",
+    "static/media/male3 profile.webp": "/static/media/male3 profile.bba9cd136a9cb85fe8e3.webp",
+    "static/media/email-messaging-email-marketing-campaign_183665-8.webp": "/static/media/email-messaging-email-marketing-campaign_183665-8.bf795c241958d2570477.webp",
+    "index.html": "/index.html",
+    "main.a969a68e.css.map": "/static/css/main.a969a68e.css.map",
+    "main.a768b65e.js.map": "/static/js/main.a768b65e.js.map",
+    "787.3a523655.chunk.js.map": "/static/js/787.3a523655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a969a68e.css",
+    "static/js/main.a768b65e.js"
+  ]
+}
